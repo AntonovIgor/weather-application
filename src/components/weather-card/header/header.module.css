@@ -1,0 +1,30 @@
+.title {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 24px;
+  font-size: 18px;
+}
+
+.date {
+  display: block;
+  font-size: 32px;
+  margin-bottom: 32px;
+}
+
+.icon {
+  margin-bottom: 16px;
+}
+
+.icon img {
+  width: auto;
+  height: 140px;
+}
+
+.degree {
+  font-size: 64px;
+  font-weight: 700;
+}
+
+.weather {
+  font-weight: 700;
+}
